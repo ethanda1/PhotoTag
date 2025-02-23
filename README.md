@@ -27,10 +27,6 @@ PhotoTag is an AI-powered image tagging application that automatically analyzes 
 ### Database & Auth
 - Supabase (PostgreSQL)
 
-### Cloud Services
-- AWS S3 (Image Storage)
-- AWS Rekognition (AI Image Analysis)
-
 ### Upload Your Photo
 ![Upload Photo](https://github.com/user-attachments/assets/5cfeb58b-02b0-4025-8a7e-66cd1f7d9c88)
 
