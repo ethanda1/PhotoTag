@@ -29,7 +29,7 @@ PhotoTag is an AI-powered image tagging application that automatically analyzes 
 ### Cloud Services
 - AWS S3 (Image Storage)
 - AWS Rekognition (AI Image Analysis)
-- 
+
 ## Screenshots
 
 ### Home Page
