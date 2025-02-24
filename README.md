@@ -52,7 +52,7 @@ yarn install
 3. Install Python dependencies:
 ```bash
 cd backend
-oython -m venv venv
+python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
 ```
